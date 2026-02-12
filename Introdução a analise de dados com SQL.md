@@ -12,3 +12,4 @@
 
 ## Análise Descritiva: Caracterizando os Registros de Customers
 
+// who says whom can't go home
