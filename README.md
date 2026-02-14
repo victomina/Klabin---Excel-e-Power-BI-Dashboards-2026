@@ -4,3 +4,4 @@ the power of BI and Excel to use automation on the process to create authomated 
 
 
 Studying the process of creating data bases from the beggining
+
