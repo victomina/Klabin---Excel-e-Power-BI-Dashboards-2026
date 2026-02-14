@@ -8,11 +8,10 @@
 
 ## O que fazer em um primeiro contato com base de dados?
 
-## O que fazer em um primeiro contato com base de dados?
-
 ## Análise Descritiva: Caracterizando os Registros de Customers
 
 --> Analisando consultas em SQL;
+
 ## Utilizando junções para caracterizar os dados
 
 ## Analisando frequência dos dados com funções de agregação
